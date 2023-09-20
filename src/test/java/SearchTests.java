@@ -11,4 +11,9 @@ public class SearchTests {
         $("[name=q]").setValue("selenide").pressEnter();
         $("[id=search]").shouldHave(text("https://selenide.org"));
     }
+
+    @Test
+    void secondTest() {
+        return
+    }
 }
