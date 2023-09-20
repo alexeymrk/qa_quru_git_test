@@ -14,6 +14,6 @@ public class SearchTests {
 
     @Test
     void testTest(){
-
+    open();
     }
 }
